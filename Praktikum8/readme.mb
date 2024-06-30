@@ -1,0 +1,8 @@
+Random Forest adalah algoritma pembelajaran ensemble yang digunakan untuk tugas klasifikasi dan regresi.
+Algoritma ini terdiri dari sejumlah besar pohon keputusan individu yang bekerja sama sebagai sebuah "hutan".
+Setiap pohon keputusan dalam hutan memberikan prediksi kelas (untuk klasifikasi) atau nilai (untuk regresi),
+dan keputusan akhir dibuat berdasarkan mayoritas suara (untuk klasifikasi) atau rata-rata (untuk regresi) dari semua pohon dalam hutan.
+
+Agglomerative Clustering adalah salah satu metode dalam hierarchical clustering yang digunakan untuk mengelompokkan
+data berdasarkan kemiripan atau jarak antar data. Metode ini bekerja dengan menggabungkan data yang paling mirip menjadi
+cluster (kelompok) secara berulang hingga semua data berada dalam satu cluster atau hingga kriteria tertentu tercapai.
